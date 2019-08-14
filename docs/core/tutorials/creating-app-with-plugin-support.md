@@ -1,5 +1,5 @@
 ---
-title: 使用插件创建 .NET Core 应用程序
+title: 使用创建带插件的 .NET Core 应用程序
 description: 了解如何创建支持插件的 .NET Core 应用程序。
 author: jkoritzinsky
 ms.author: jekoritz
